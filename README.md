@@ -61,62 +61,18 @@ https://github.com/your-username/alok-landing-page
          ├── alok.js
 
          ├── README.md
+# 👨‍💻 Author
+Alok Raj
 
-         │
+Web Development Intern – SkillCraft Technology
 
-         └── assets
-               ├── screenshot1.png
-               ├── screenshot2.png
-               └── screenshot3.png
+📧 Email: alokraj32115@gmail.com
 
----
+🔗 GitHub: https:https://github.com/Nitish-Kumar-62/SCT_WD_1
 
-## 📸 Website Sections
+🌐 Live Project:https://nitish-kumar-62.github.io/SCT_WD_1/
 
-### 🏠 Home
-Hero section with heading, description, and call-to-action button.
+💼 LinkedIn; https://www.linkedin.com/in/nitish-kumar-0201n2005/
 
-### ✨ Features
-Displays feature cards:
-- Fast
-- Modern
-- Responsive
 
-### 💼 Services
-Shows services like:
-- Web Design
-- UI/UX
-- Development
-- Branding
 
-### 📞 Contact
-Simple contact section for user engagement.
-
----
-
-## 🎨 UI Features
-
-- Gradient Background
-- Glassmorphism Navbar
-- Hover Animations
-- Card Hover Effects
-- Responsive Grid Layout
-- Smooth Navigation Experience
-
----
-
-## 📱 Responsive Design
-
-This website is fully responsive and works perfectly on:
-- Desktop
-- Tablet
-- Mobile Devices
-
----
-
-## ⚙️ How to Run
-
-1. Download or clone the repository
-
-```bash
-git clone https://github.com/your-username/alok-landing-page.git
