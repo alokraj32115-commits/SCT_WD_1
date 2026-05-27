@@ -42,11 +42,7 @@ This project features an interactive fixed navigation menu that dynamically chan
 ---
 
 ## 🌐 Live Project
-
-👉 GitHub Repository Link:  
-https://github.com/your-username/alok-landing-page
-
----
+👉 GitHub live Link: https://alokraj32115-commits.github.io/SCT_WD_1/
 
 ## 📂 Project Structure
 
@@ -70,7 +66,7 @@ Web Development Intern – SkillCraft Technology
 
 🔗 GitHub: https:https://github.com/alokraj32115-commits/SCT_WD_1
 
-🌐 Live Project:https://nitish-kumar-62.github.io/SCT_WD_1/
+🌐 Live Project:https://alokraj32115-commits.github.io/SCT_WD_1/
 
 💼 LinkedIn; 
 
