@@ -68,11 +68,11 @@ Web Development Intern – SkillCraft Technology
 
 📧 Email: alokraj32115@gmail.com
 
-🔗 GitHub: https:https://github.com/Nitish-Kumar-62/SCT_WD_1
+🔗 GitHub: https:https://github.com/alokraj32115-commits/SCT_WD_1
 
 🌐 Live Project:https://nitish-kumar-62.github.io/SCT_WD_1/
 
-💼 LinkedIn; https://www.linkedin.com/in/nitish-kumar-0201n2005/
+💼 LinkedIn; 
 
 
 
